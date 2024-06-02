@@ -1,0 +1,15 @@
+server:
+  port: 9090
+
+call-log:
+  url: http://localhost:8090/crm-call-log-service/v1/call-logs
+  timeout-in-millis: 10000
+
+spring:
+  codec:
+    max-in-memory-size: 1MB
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka

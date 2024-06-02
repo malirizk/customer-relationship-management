@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaBuddyIdeaProjectConfig">
+    <option name="reLastEntityCreationPackage" value="call-log-service/src/main/java/com/example/calllogservice/model" />
+    <option name="reverseEngineeringLastDbConnectionId" value="7a2e891d-b29d-40a4-8364-b98938d33da1__postgres_call_logs_schema" />
+  </component>
+</project>
